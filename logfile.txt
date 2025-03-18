@@ -1,0 +1,20 @@
+Directory admin created successfully.
+Directory admin/steve created successfully.
+Directory admin/steve/home created successfully.
+File admin/steve/home/profile.txt created successfully.
+Permissions set to read-only for admin/steve/home/profile.txt.
+Directory admin already exists or could not be created.
+Directory admin/bill created successfully.
+Directory admin/bill/home created successfully.
+File admin/bill/home/profile.txt created successfully.
+Permissions set to read-only for admin/bill/home/profile.txt.
+Directory user created successfully.
+Directory user/elon created successfully.
+Directory user/elon/home created successfully.
+File user/elon/home/profile.txt created successfully.
+Permissions set to read-only for user/elon/home/profile.txt.
+Directory user already exists or could not be created.
+Directory user/jeff created successfully.
+Directory user/jeff/home created successfully.
+File user/jeff/home/profile.txt created successfully.
+Permissions set to read-only for user/jeff/home/profile.txt.
